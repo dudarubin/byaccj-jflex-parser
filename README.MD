@@ -252,6 +252,12 @@ No Windows:
 .\yacc.exe -tv -J exerc.y
 ```
 
+No linux:
+
+```powershell
+./yacc.linux -tv -J exerc.y
+```
+
 O resultado esperado é:
 
 ```text
@@ -269,6 +275,12 @@ y.output
 
 ```bash
 javac *.java
+```
+
+ou
+
+```bash
+javac --release 21 *.java
 ```
 
 ### Executar
