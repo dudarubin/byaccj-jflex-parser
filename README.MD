@@ -8,8 +8,8 @@ Testes realizados em programa_certo.txt:
 - while 
 - if-else 
 - &&
-- > 
-- + 
-- * 
+- '>' 
+- '+ '
+- '* '
 - / 
 - atribuição
