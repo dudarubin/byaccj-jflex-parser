@@ -1,0 +1,21 @@
+int a, b;
+double resultado;
+boolean ativo;
+
+int soma(int x, int y) {
+    resultado = x + y * 2;
+}
+
+void main() {
+    a = 10;
+    b = 5;
+
+    while (a > b && ativo) {
+        a = a / 2;
+    }
+
+    if (a > b)
+        resultado = a;
+    else
+        resultado = b;
+}

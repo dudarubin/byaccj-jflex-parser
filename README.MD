@@ -1,0 +1,15 @@
+Testes realizados em programa_certo.txt: 
+- declarações
+- tipos
+- lista de identificadores
+- funções
+- parâmetros
+- blocos 
+- while 
+- if-else 
+- &&
+- > 
+- + 
+- * 
+- / 
+- atribuição
